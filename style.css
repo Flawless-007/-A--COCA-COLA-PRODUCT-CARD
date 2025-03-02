@@ -32,7 +32,7 @@ body{
     height: 250px;
     border-radius: 20px;
     top: -80px;
-    left: 10px;
+    left: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -82,7 +82,7 @@ body{
     transition-delay: 0.75s;
     transform: translate(-50%,-50%) scale(1) rotate(15deg);
     top: 35%;
-    left: 68%;
+    left: 75%;
     height: 300px;
 }
 .card .content{
